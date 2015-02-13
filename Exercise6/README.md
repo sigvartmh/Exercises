@@ -27,3 +27,7 @@ Be careful! You don't want to create a [chain reaction](http://en.wikipedia.org/
  
 ####2: Guarantees (Optional)
 Make your program print each number once and _only_ once, and demonstrate (a priori, not just through observation of your program) that it will behave this way, regardless of when the primary is killed.
+
+###Partial objective
+Each of the following excercises will include a partial objective for the project. If you follow these you will experience less stress in week 16-17 than if you postphone everything to the last few weeks. 
+This weeks goal is getting one elevator to run. Create a clearly defined interface to the elevator control-module so that the rest of the system can easely control the elevator. Use pen and paper, discuss among yourself how this interface should work before you implement your solution. KISS - Keep It Simple, Stupid. 
