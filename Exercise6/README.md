@@ -32,3 +32,5 @@ Make your program print each number once and _only_ once, and demonstrate (a pri
 Each of the following excercises will include a partial objective for the project. If you follow these you will experience less stress in week 16-17 than if you postphone everything to the last few weeks. 
 
 This weeks goal is getting one elevator to run. Create a clearly defined interface to the elevator control-module so that the rest of the system can easely control the elevator. Use pen and paper, discuss among yourself how this interface should work before you implement your solution. KISS - Keep It Simple, Stupid. 
+
+If you have created your own objectives present this, and your work, to the student assistent.
