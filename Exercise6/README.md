@@ -24,7 +24,9 @@ You will also need to spawn the backup somehow. There should be a way to spawn p
 
 Be careful! You don't want to create a [chain reaction](http://en.wikipedia.org/wiki/Fork_bomb)... If you do, you can use `pkill -f program_name` (Windows: `taskkill /F /IM program_name /T`) as a sledgehammer.
 
+(Note: because of a delay with logging on terminals on the RT-lab computers you won't be able to start new terminals from within your program. You can and should do this on your personal computer, but we will accept manual starts of each process.) 
 (Note for the project: Usually a program crashes for a reason. Restoring the program to the same state as it died in may cause it to crash in exactly the same way, all over again.)
+
  
 ####2: Guarantees (Optional)
 Make your program print each number once and _only_ once, and demonstrate (a priori, not just through observation of your program) that it will behave this way, regardless of when the primary is killed.
