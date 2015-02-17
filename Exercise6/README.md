@@ -1,5 +1,6 @@
 Exercise 6 : Phoenix
 ====================
+This exercise must be approved at the RT-lab by a student assistent by the deadline on itsLearning.
 
 ####1: Process pairs
 Create a program (in any language, on any OS) that uses the _process pair_ technique to print the numbers `1`, `2`, `3`, `4`, etc to a terminal window. The program should create its own backup: When the primary is running, _only the primary_ should keep counting, and the backup should do nothing. When the primary dies, the backup should become the new primary, create its own new backup, and keep counting where the dead one left off. Make sure that no numbers are skipped!
